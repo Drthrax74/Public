@@ -1,6 +1,6 @@
 ### ERP
 ```
-https://control-webpanel.com/installation-instructions
+[Linux]   https://control-webpanel.com/installation-instructions
 ```
 
 #### Messageries
